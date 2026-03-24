@@ -17,3 +17,6 @@ yolov5/
 # 结果分析文件
 analyze_results.py
 fps_eval.py
+
+# 其他
+.trae/
