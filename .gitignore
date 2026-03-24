@@ -1,0 +1,19 @@
+# data
+data/
+
+# runs (训练和评估结果)
+runs/
+
+# python 
+__pycache__/
+.vscode/
+
+# yolov5
+yolov5/
+
+# 权重文件
+*.pt
+
+# 结果分析文件
+analyze_results.py
+fps_eval.py
